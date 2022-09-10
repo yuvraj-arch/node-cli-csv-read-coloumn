@@ -4,7 +4,7 @@ Node using command process json logs
 
 Run belowto install yargs dependency
 
-`npm install yargs@17.0.1`
+`npm install yargs@17.5.1`
 
 This command will be installed [/usr/local/lib/node_modules]
 
