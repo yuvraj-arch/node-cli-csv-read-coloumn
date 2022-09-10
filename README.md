@@ -16,4 +16,4 @@ To Uninstall run below command
 
 Use Following command to run scipt
 
-`read-csv -f impacted_orders_dlq.csv -c 2 -s '","'`
+`read-csv -f input.csv -c 2 -s '","'`
